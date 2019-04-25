@@ -1,0 +1,21 @@
+{
+  "name": "danis",
+  "version": "0.0.1",
+  "description": "danisApp",
+  "main": "coba",
+  "scripts": {
+    "test": "Hallo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitHallo"
+  },
+  "keywords": [
+    "Hallo"
+  ],
+  "author": "danis",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
